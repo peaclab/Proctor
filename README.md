@@ -1,2 +1,2 @@
 # Proctor
-Proctor: A Semi-Supervised PerformanceAnomaly Diagnosis Framework forProduction HPC Systems
+Proctor: A Semi-Supervised Performance Anomaly Diagnosis Framework for Production HPC Systems
